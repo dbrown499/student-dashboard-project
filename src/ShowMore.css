@@ -1,0 +1,18 @@
+.add-info {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.info-sec {
+    margin-left: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#codewar-list,
+#scores-list,
+#certificates-list {
+    color: hsl(139deg 23% 47%);
+    font-weight: lighter;
+}

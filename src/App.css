@@ -1,0 +1,9 @@
+
+
+.main-container {
+    /* border: 1px solid black; */
+    display: grid;
+    grid-template-columns: 35% 65%;
+    margin: 10px;
+}
+
